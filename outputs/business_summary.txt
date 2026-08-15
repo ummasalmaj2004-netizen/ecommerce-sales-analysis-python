@@ -1,0 +1,10 @@
+E-COMMERCE SALES ANALYSIS
+========================================
+
+Total Revenue: 26,970.00
+Total Units Sold: 61
+Average Revenue Per Product: 2,697.00
+Best Selling Product: T-Shirt
+Best Selling Units: 12
+Highest Revenue Product: Smartphone
+Highest Product Revenue: 9,000.00

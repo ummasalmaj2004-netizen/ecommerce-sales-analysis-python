@@ -1,0 +1,11 @@
+product,total_quantity,total_revenue,average_price
+Smartphone,5,9000,1800.0
+Laptop,2,7000,3500.0
+Smartwatch,7,3150,450.0
+Shoes,8,2000,250.0
+Headphones,6,1800,300.0
+Jacket,3,1200,400.0
+T-Shirt,12,960,80.0
+Backpack,4,720,180.0
+Keyboard,5,600,120.0
+Mouse,9,540,60.0
